@@ -1,0 +1,6 @@
+2023-09-26 01:42:24 - Copied: C://Users//sukes//PycharmProjects//VeeamProject//TestData_Folder//source_folder\checjuk.txt -> C://Users//sukes//PycharmProjects//VeeamProject//TestData_Folder//destination_folder\checjuk.txt
+2023-09-26 01:42:24 - Copied: C://Users//sukes//PycharmProjects//VeeamProject//TestData_Folder//source_folder\roughwork.docx -> C://Users//sukes//PycharmProjects//VeeamProject//TestData_Folder//destination_folder\roughwork.docx
+2023-09-26 01:42:24 - Copied: C://Users//sukes//PycharmProjects//VeeamProject//TestData_Folder//source_folder\Thottingal_4T.pptx -> C://Users//sukes//PycharmProjects//VeeamProject//TestData_Folder//destination_folder\Thottingal_4T.pptx
+2023-09-26 01:42:44 - Copied: C://Users//sukes//PycharmProjects//VeeamProject//TestData_Folder//source_folder\checjuk.txt -> C://Users//sukes//PycharmProjects//VeeamProject//TestData_Folder//destination_folder\checjuk.txt
+2023-09-26 01:43:04 - Copied: C://Users//sukes//PycharmProjects//VeeamProject//TestData_Folder//source_folder\checjuk.txt -> C://Users//sukes//PycharmProjects//VeeamProject//TestData_Folder//destination_folder\checjuk.txt
+2023-09-26 01:43:44 - Copied: C://Users//sukes//PycharmProjects//VeeamProject//TestData_Folder//source_folder\checjuk.txt -> C://Users//sukes//PycharmProjects//VeeamProject//TestData_Folder//destination_folder\checjuk.txt

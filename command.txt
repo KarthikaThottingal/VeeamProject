@@ -1,0 +1,2 @@
+ cmd command used :
+ python sync_folders.py C://Users//sukes//PycharmProjects//VeeamProject//TestData_Folder//source_folder C://Users//sukes//PycharmProjects//VeeamProject//TestData_Folder//destination_folder 20 C://Users//sukes//PycharmProjects//VeeamProject//TestData_Folder//log_file.txt
